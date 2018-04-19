@@ -1,0 +1,3 @@
+[submodule "galaxy_bridges"]
+	path = galaxy_bridges
+	url = https://github.com/NCGAS/galaxy_bridges
