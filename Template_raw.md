@@ -35,36 +35,45 @@
       ` cat /proc/version`
 
 CPU info 
+
   `cat /proc/cpuinfo | grep -m 1 "model name"`
 
 Number of cores
+
   `cat /proc/cpuinfo | grep "model name" | wc -l`
 
 CPU Microarchitecture
+
   For finding issues specific to certain compiler optimizations
+
   `gcc -march=native -Q --help=target|grep march`
 
 Available RAM
+
   This is helpful for comparing performance or 'runnability' of certain scripts on which machines
+
   `free -m -h`
 
 File system info
+
   This may be relevant for issues that pertain specifically to network file systems, solid state drives, etc
-  `df`
-  `mount`
-  `diskutil list` on Mac 
+  `df
+  mount
+  diskutil list #on Mac 
 
 File system space
+
   How much disk space is available where the project will be deployed? 
 
 Resource manager/ Job Scheduler
+
   I.e., SLURM, Torque, Grid Engine, and version thereof
 
 
 C/C++ Compilers
-  `icpc -v`
-  `echo $CC`
-  `icpc -v`
+  `icpc -v
+  echo $CC
+  icpc -v`
 
 Programming Language builds and versions
   * python --version 
@@ -74,7 +83,9 @@ Programming Language builds and versions
   * php, etc
 
 Software environment
+
   Other details, such as relevant libraries and software stack
+
   * Docker/singularity
   * Modules/softenv/etc
 
