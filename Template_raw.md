@@ -57,9 +57,9 @@ Available RAM
 File system info
 
   This may be relevant for issues that pertain specifically to network file systems, solid state drives, etc
-  `df
-  mount
-  diskutil list #on Mac 
+  * `df`
+  * `mount`
+  * `diskutil list #on Mac `
 
 File system space
 
@@ -71,9 +71,9 @@ Resource manager/ Job Scheduler
 
 
 C/C++ Compilers
-  `icpc -v
-  echo $CC
-  icpc -v`
+  * `icpc -v`
+  * `echo $CC`
+  * `icpc -v`
 
 Programming Language builds and versions
   * python --version 
