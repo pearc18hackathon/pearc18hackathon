@@ -51,22 +51,22 @@ Check our these [Makeflow tutorial materials][makeflow tutorials] to get you sta
   * SSH client
   * Docker
 ---
-### Tentative Schedule
-|Time             | Activity                                                                                        |
-|-----------------|-------------------------------------------------------------------------------------------------|
-|8:30 – 9:00 AM	  |	Introduction to the Hackthon                                                                    |
-|9:00 – 10:00 AM  | Project Overview by Project leads – Form Teams                                                  |
-|10:00 – 10:30 AM |	Morning Break                                                                                   |
-|10:30 – 12:00 PM |	Hack away!                                                                                      | 
-|12:00 – 1:30 PM	 | Lunch                                                                                           |
-|1:30 – 2:00 PM		 | Quick progress presentation by each team                                                        |
-|2:00 – 3:00 PM 	 |	Hack away!                                                                                      |
-|3:00 – 3:30 PM 	 |	Afternoon Break                                                                                 |
-|3:30 – 4:30 PM 	 | Regroup and document everything in one place – git/google groups? Upto the project leads        |
-|4:30 – 5:00PM	   | Final presentation on the progress/updates made to the code or documentation from the hackathon |
+## Tentative Schedule
+|Time             | Activity                                        |
+|-----------------|-------------------------------------------------|
+|8:30 – 9:00 AM	  |	Introduction to the Hackthon                    |
+|9:00 – 10:00 AM  | Project Overview by Project leads – Form Teams  |
+|10:00 – 10:30 AM |	Morning Break                                   |
+|10:30 – 12:00 PM |	Hack away!                                      | 
+|12:00 – 1:30 PM	 | Lunch                                           |
+|1:30 – 2:00 PM		 | Quick progress presentation by each team        |
+|2:00 – 3:00 PM 	 |	Hack away!                                      |
+|3:00 – 3:30 PM 	 |	Afternoon Break                                 |
+|3:30 – 4:30 PM 	 | Wrap-up hackathon projects and document         |
+|4:30 – 5:00PM	   | Final progress presentations by teams           |
 
 
-### Organizers
+## Organizers
 Philip Blood, Alex Ropelewski, Marcela Madrid: **PSC**
 
 Carrie Ganote, Bhavya Nalagampallipapudesh, Sheri Sanders, Tom Doak: **Indiana University**
