@@ -15,7 +15,7 @@ To help participants gain initial familiarity with a particular project, we prov
 ### Containerize your application and run with Singularity
 Do you have an application you'd like to put into a Docker container to run with Singularity on your own HPC system, an XSEDE system, or another resource? Bring your application to the hackathon and let us help you containerize it!
 
-Check out these tutorial materials to get your started!
+Check out these [container tutorial materials][container camp] to get your started!
 
 ### Run portable workflows in your own personal cloud with Makeflow and Work Queue
 Get your own real-world workflow (containerized if you wish!) running in the portable workflow manager, Makeflow. Harness all available resources (desktops, clusters, clouds, grids) with the Work Queue lightweight distributed execution system. Get your workflow included in the [official list of Makeflow example workflows][makeflow examples]!
@@ -31,6 +31,7 @@ Check our these [Makeflow tutorial materials][makeflow tutorials] to get you sta
 ---
 ### Prerequisites
 * A laptop with a wifi connection
+* Familiarity with Linux command line
 * The following software installed on your laptop
   * SSH client
   * Docker
@@ -40,3 +41,4 @@ Check our these [Makeflow tutorial materials][makeflow tutorials] to get you sta
 [makeflow examples]:https://github.com/cooperative-computing-lab/makeflow-examples
 [bioconda]:https://bioconda.github.io/
 [biocontainers]:https://biocontainers.pro/
+[container camp]:https://cyverse-container-camp-workshop-2018.readthedocs-hosted.com/en/latest/index.html
