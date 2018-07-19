@@ -16,10 +16,9 @@ To help participants gain initial familiarity with a particular project, we prov
 Do you have an application you'd like to put into a Docker container to run with Singularity on your own HPC system, an XSEDE system, or another resource? Bring your application to the hackathon and let us help you containerize it!
 
 ### Makeflow and Work Queue
-Get your own real-world workflow (containerized if you wish!) running in the portable workflow manager, Makeflow, and harness all available resources (desktops, clusters, clouds, grids) with the Work Queue lightweight distributed execution system. Get your workflow included in the official list of Makeflow example workflows!
+Get your own real-world workflow (containerized if you wish!) running in the portable workflow manager, Makeflow. Harness all available resources (desktops, clusters, clouds, grids) with the Work Queue lightweight distributed execution system. Get your workflow included in the [official list of Makeflow example workflows][makeflow examples]!
 
-http://ccl.cse.nd.edu/software/tutorials/makeflow/
-https://github.com/cooperative-computing-lab/makeflow-examples
+Check our these [Makeflow tutorial materials][makeflow tutorials] to get you started! 
 
 ### Get your application into Bioconda or Biocontainers (or contribute in other ways!)
 
@@ -31,3 +30,6 @@ https://github.com/cooperative-computing-lab/makeflow-examples
   * SSH client
   * Docker
 ---
+
+[makeflow tutorials]: http://ccl.cse.nd.edu/software/tutorials/makeflow/
+[makeflow examples]:https://github.com/cooperative-computing-lab/makeflow-examples
