@@ -1,3 +1,6 @@
 [submodule "cctools"]
 	path = cctools
 	url = https://github.com/cooperative-computing-lab/cctools
+[submodule "makeflow-examples"]
+	path = makeflow-examples
+	url = https://github.com/cooperative-computing-lab/makeflow-examples
