@@ -8,7 +8,9 @@ Rather than simply working through tutorials, this hackathon will focus on parti
 The theme of this initial hackathon is reproducible and portable computing. We are featuring several projects around this theme that participants can choose to engage with starting now, at the face-to-face hackathon at PEARC18, and after the conference.
 
 ## Projects
-Participants are invited to engage with any of the projects listed below. Send email to <pearc18hackathon@gmail.com> to let us know you are planning to join the hackathon and indicate which project you would like to work on. 
+Participants are invited to engage with any of the projects listed below. 
+
+**Send email to <pearc18hackathon@gmail.com> to let us know you are planning to join the hackathon and indicate which project you would like to work on.**
 
 To help participants gain initial familiarity with a particular project, we provide links to tutorial materials with each project. However, as mentioned, we strongly encourage participants to bring their real-world applications and challenges and use the hackathon as an opportunity to implement something that will benefit them. When possible, we encourage everyone to share their solutions with the community so all can benefit!
 
