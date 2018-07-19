@@ -31,7 +31,7 @@ Check our these [Makeflow tutorial materials][makeflow tutorials] to get you sta
 ---
 ### Bioconda and BioContainers
 #### Use and improve Bioconda and BioContainers for portable, reproducible bioinformatics
-[Bioconda][bioconda] is a channel of the conda package manager specializing in bioinformatics software. Each bioconda package automatically has a Docker [BioContainer][biocontainers] created for it that is uploaded to Quay.io. There are a number of ways to engage with Bioconda and BioContainers at the hackathon:
+[Bioconda][bioconda] is a channel of the conda package manager specializing in bioinformatics software. Each bioconda package automatically has a Docker [BioContainer][biocontainers] created for it that is uploaded to [Quay.io][quay.io]. There are a number of ways to engage with Bioconda and BioContainers at the hackathon:
 * Add or update a bioinformatics package that you need to Bioconda and BioContainers
 * Integrate BioContainers with HPC environments
 * Improve tools and documentation for working with BioContainers
@@ -50,3 +50,4 @@ Check our these [Makeflow tutorial materials][makeflow tutorials] to get you sta
 [bioconda]:https://bioconda.github.io/
 [biocontainers]:https://biocontainers.pro/
 [container camp]:https://cyverse-container-camp-workshop-2018.readthedocs-hosted.com/en/latest/index.html
+[quay.io]:https://quay.io/
