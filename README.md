@@ -49,6 +49,7 @@ Check out these [Makeflow tutorial materials][makeflow tutorials] to get you sta
 ### Prerequisites
 * A laptop with a wifi connection
 * Familiarity with Linux command line
+* An [XSEDE portal][xsede portal] account
 * The following software installed on your laptop
   * SSH client
   * Docker
@@ -81,3 +82,4 @@ Nate Kremer-Herman: **University of Notre Dame**
 [biocontainers]:https://biocontainers.pro/
 [container camp]:https://cyverse-container-camp-workshop-2018.readthedocs-hosted.com/en/latest/index.html
 [quay.io]:https://quay.io/
+[xsede portal]:https://portal.xsede.org
