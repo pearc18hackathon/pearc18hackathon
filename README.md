@@ -46,6 +46,12 @@ Check our these [Makeflow tutorial materials][makeflow tutorials] to get you sta
   * SSH client
   * Docker
 ---
+### Organizers
+Philip Blood, Alex Ropelewski, Marcela Madrid: **PSC**
+
+Carrie Ganote, Bhavya Nalagampallipapudesh, Sheri Sanders, Tom Doak: **Indiana University**
+
+Nate Kremer-Herman: **Notre Dame**
 
 [makeflow tutorials]:http://ccl.cse.nd.edu/software/tutorials/makeflow/
 [makeflow examples]:https://github.com/cooperative-computing-lab/makeflow-examples
