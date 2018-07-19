@@ -12,12 +12,14 @@ Participants are invited to engage with any of the projects listed below. Send e
 
 To help participants gain initial familiarity with a particular project, we provide links to tutorial materials with each project. However, as mentioned, we strongly encourage participants to bring their real-world applications and challenges and use the hackathon as an opportunity to implement something that will benefit them. When possible, we encourage everyone to share their solutions with the community so all can benefit!
 
+---
 ### Docker and Singularity
 #### Containerize your application and run with Singularity
 Do you have an application you'd like to put into a Docker container to run with Singularity on your own HPC system, an XSEDE system, or another resource? Bring your application to the hackathon and let us help you containerize it!
 
 Check out these [container tutorial materials][container camp] to get your started!
 
+---
 ### Makeflow and Work Queue
 #### Run portable workflows in your own personal cloud with Makeflow and Work Queue
 * Get your own real-world workflow (containerized if you wish!) running in the portable workflow manager, Makeflow. 
@@ -26,6 +28,7 @@ Check out these [container tutorial materials][container camp] to get your start
 
 Check our these [Makeflow tutorial materials][makeflow tutorials] to get you started! 
 
+---
 ### Bioconda and BioContainers
 #### Use and improve Bioconda and BioContainers for portable, reproducible bioinformatics
 [Bioconda][bioconda] is a channel of the conda package manager specializing in bioinformatics software. Each bioconda package automatically has a Docker [BioContainer][biocontainers] created for it that is uploaded to Quay.io. There are a number of ways to engage with Bioconda and BioContainers at the hackathon:
