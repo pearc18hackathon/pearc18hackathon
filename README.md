@@ -20,7 +20,9 @@ Check out these [container tutorial materials][container camp] to get your start
 
 ### Makeflow and Work Queue
 #### Run portable workflows in your own personal cloud with Makeflow and Work Queue
-Get your own real-world workflow (containerized if you wish!) running in the portable workflow manager, Makeflow. Harness all available resources (desktops, clusters, clouds, grids) with the Work Queue lightweight distributed execution system. Get your workflow included in the [official list of Makeflow example workflows][makeflow examples]!
+* Get your own real-world workflow (containerized if you wish!) running in the portable workflow manager, Makeflow. 
+* Harness all available resources (desktops, clusters, clouds, grids) with the Work Queue lightweight distributed execution system. 
+* Get your workflow included in the [official list of Makeflow example workflows][makeflow examples]!
 
 Check our these [Makeflow tutorial materials][makeflow tutorials] to get you started! 
 
