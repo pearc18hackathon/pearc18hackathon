@@ -1,4 +1,9 @@
 # Hackathon at PEARC18: Developing and Applying Best-Practice Protocols
+**Date:** Monday, July 23rd  
+**Time:** 8:30 AM to 5 PM  
+**Location:** Rivers  
+
+
 ## Summary and Focus
 For this session at PEARC18, we are piloting a mechanism to help research computing practitioners share and develop solutions with others in the field who share their challenges or interests by providing a hackathon opportunity where interested users can work directly with projects before, during, and after the conference. 
 
@@ -19,7 +24,7 @@ To help participants gain initial familiarity with a particular project, we prov
 #### Containerize your application and run with Singularity
 Do you have an application you'd like to put into a Docker container to run with Singularity on your own HPC system, an XSEDE system, or another resource? Bring your application to the hackathon and let us help you containerize it!
 
-Check out these [container tutorial materials][container camp] to get your started!
+Check out these [container tutorial materials][container camp] to get you started!
 
 ---
 ### Makeflow and Work Queue
@@ -46,6 +51,21 @@ Check our these [Makeflow tutorial materials][makeflow tutorials] to get you sta
   * SSH client
   * Docker
 ---
+### Tentative Schedule
+|Time             | Activity                                                                                        |
+|-----------------|-------------------------------------------------------------------------------------------------|
+|8:30 – 9:00 AM	  |	Introduction to the Hackthon                                                                    |
+|9:00 – 10:00 AM  | Project Overview by Project leads – Form Teams                                                  |
+|10:00 – 10:30 AM |	Morning Break                                                                                   |
+|10:30 – 12:00 PM |	Hack away!                                                                                      | 
+|12:00 – 1:30 PM	 | Lunch                                                                                           |
+|1:30 – 2:00 PM		 | Quick progress presentation by each team                                                        |
+|2:00 – 3:00 PM 	 |	Hack away!                                                                                      |
+|3:00 – 3:30 PM 	 |	Afternoon Break                                                                                 |
+|3:30 – 4:30 PM 	 | Regroup and document everything in one place – git/google groups? Upto the project leads        |
+|4:30 – 5:00PM	   | Final presentation on the progress/updates made to the code or documentation from the hackathon |
+
+
 ### Organizers
 Philip Blood, Alex Ropelewski, Marcela Madrid: **PSC**
 
