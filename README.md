@@ -62,8 +62,7 @@ Check out these [Makeflow tutorial materials][makeflow tutorials] to get you sta
 |10:00 – 10:30 AM |	Morning Break                                   |
 |10:30 – 12:00 PM |	Hack away!                                      | 
 |12:00 – 1:30 PM	 | Lunch                                           |
-|1:30 – 2:00 PM		 | Quick progress presentation by each team        |
-|2:00 – 3:00 PM 	 |	Hack away!                                      |
+|1:30 – 3:00 PM 	 |	Hack away!                                      |
 |3:00 – 3:30 PM 	 |	Afternoon Break                                 |
 |3:30 – 4:30 PM 	 | Wrap-up hackathon projects and document         |
 |4:30 – 5:00PM	   | Final progress presentations by teams           |
