@@ -41,9 +41,12 @@ Check out these [Makeflow tutorial materials][makeflow tutorials] to get you sta
 ### Bioconda and BioContainers
 #### Use and improve Bioconda and BioContainers for portable, reproducible bioinformatics
 [Bioconda][bioconda] is a channel of the conda package manager specializing in bioinformatics software. Each bioconda package automatically has a Docker [BioContainer][biocontainers] created for it that is uploaded to [Quay.io][quay.io]. There are a number of ways to engage with Bioconda and BioContainers at the hackathon:
-* Add or update a bioinformatics package that you need to Bioconda and BioContainers
+* [Contribute or update a bioconda recipe][bioconda_recipe] of interest to you. See [slides for additional tips][bioconda_slides]. See this [list][bioconda_fail] of recipes that need work for ideas.
 * Integrate BioContainers with HPC environments
+  * Deploy BioContainers directly on your site via Galaxy's hosted Singularity repository. See the [tutorial here][cvmfs_singularity].
+  * E.g., best-practice for integrating BioContainers with HPC system environment modules?
 * Improve tools and documentation for working with BioContainers
+  * Help with this [pull request][biocontainers_pull] to improve tools for working with BioContainers
 
 ---
 ### Prerequisites
@@ -90,3 +93,9 @@ Nate Kremer-Herman: **University of Notre Dame**
 [container camp]:https://cyverse-container-camp-workshop-2018.readthedocs-hosted.com/en/latest/index.html
 [quay.io]:https://quay.io/
 [xsede portal]:https://portal.xsede.org
+[bioconda_fail]:https://github.com/bioconda/bioconda-recipes/blob/master/build-fail-blacklist
+[biocontainers_pull]: https://github.com/galaxyproject/galaxy-lib/pull/87
+[cvmfs_singularity]: https://github.com/usegalaxy-eu/cvmfs-example
+[bioconda_recipe]:https://bioconda.github.io/contribute-a-recipe.html
+[bioconda_slides]:https://drive.google.com/open?id=13yp9jajnIQ-s9dC84UY-tycWd9Dz2eE7
+
