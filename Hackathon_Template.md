@@ -1,4 +1,4 @@
-# PEARC 2018 Hackathon Template
+# PEARC 2018 Hackathon Template (adapt to your needs)
 
 ## Contributors
  * Name
