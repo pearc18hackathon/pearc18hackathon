@@ -55,6 +55,9 @@ Check out these [Makeflow tutorial materials][makeflow tutorials] to get you sta
   * Docker
 ---
 ## Tentative Schedule
+
+Slides and Presnetations - https://drive.google.com/drive/folders/1_fe08vIg6XpXvUJadGRWElIjJ9ZIxndf
+
 |Time             | Activity                                        |
 |-----------------|-------------------------------------------------|
 |8:30 – 9:00 AM	  |	Introduction to the Hackthon                    |
@@ -67,6 +70,11 @@ Check out these [Makeflow tutorial materials][makeflow tutorials] to get you sta
 |3:30 – 4:30 PM 	 | Wrap-up hackathon projects and document         |
 |4:30 – 5:00PM	   | Final progress presentations by teams           |
 
+## Zoom link 
+Join from PC, Mac, Linux, iOS or Android: https://iu.zoom.us/j/459646641
+Or Telephone:
+    Dial: +1 669 900 6833 (US Toll) or +1 646 558 8656 (US Toll)
+    Meeting ID: 459 646 641 
 
 ## Organizers
 Philip Blood, Alex Ropelewski, Marcela Madrid: **PSC**
