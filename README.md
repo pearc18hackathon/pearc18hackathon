@@ -41,7 +41,7 @@ Check out these [Makeflow tutorial materials][makeflow tutorials] to get you sta
 ### Bioconda and BioContainers
 #### Use and improve Bioconda and BioContainers for portable, reproducible bioinformatics
 [Bioconda][bioconda] is a channel of the conda package manager specializing in bioinformatics software. Each bioconda package automatically has a Docker [BioContainer][biocontainers] created for it that is uploaded to [Quay.io][quay.io]. There are a number of ways to engage with Bioconda and BioContainers at the hackathon:
-* [Contribute or update a bioconda recipe][bioconda_recipe] of interest to you. See [slides for additional tips][bioconda_slides]. See this [list][bioconda_fail] of recipes that need work for ideas.
+* [Contribute or update a bioconda recipe][bioconda_recipe] of interest to you. See [slides for additional tips][bioconda_slides]. See this [list][bioconda_fail] of recipes that need work.
 * Integrate BioContainers with HPC environments
   * Deploy BioContainers directly on your site via Galaxy's hosted Singularity repository. See the [tutorial here][cvmfs_singularity].
   * E.g., best-practice for integrating BioContainers with HPC system environment modules?
